@@ -1,0 +1,27 @@
+{
+  "name": "faxrep",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andystalick/faxrep.git"
+  },
+  "author": "Andrew Stalick andy@stalick.net",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andystalick/faxrep/issues"
+  },
+  "homepage": "https://github.com/andystalick/faxrep#readme",
+  "dependencies": {
+    "commander": "^2.9.0",
+    "config": "^1.25.1",
+    "phaxio": "^0.1.0"
+  },
+  "devDependencies": {
+    "eslint": "^3.15.0"
+  }
+}
